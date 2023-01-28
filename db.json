@@ -3,47 +3,56 @@
         {
             "id": 1,
             "icono": "fa-solid fa-house",
-            "nombre": "Inicio"
+            "nombre": "Inicio",
+            "router": "/home"
         },
         {
             "id": 2,
             "icono": "fa-solid fa-wallet",
-            "nombre": "Tarjetas"
+            "nombre": "Tarjetas",
+            "router": "/home"
         },
         {
             "id": 3,
             "icono": "fa-solid fa-money-bills",
-            "nombre": "Prestamos"
+            "nombre": "Prestamos",
+            "router": "/home"
         },
         {
             "id": 4,
             "icono": "fa-solid fa-arrow-right-arrow-left",
-            "nombre": "Operaciones"
+            "nombre": "Operaciones",
+            "router": "/home"
         },
         {
             "id": 5,
             "icono": "fa-solid fa-file",
-            "nombre": "Te ofrecemos"
+            "nombre": "Te ofrecemos",
+            "router": "/home"
         },
         {
             "id": 6,
             "icono": "fa-solid fa-shield",
-            "nombre": "Seguros"
+            "nombre": "Seguros",
+            "router": "/home"
         },
         {
             "id": 7,
             "icono": "fa-solid fa-gift",
-            "nombre": "Puntos"
+            "nombre": "Puntos",
+            "router": "/home"
         },
         {
             "id": 8,
             "icono": "fa-regular fa-circle-question",
-            "nombre": "Ayuda"
+            "nombre": "Ayuda",
+            "router": "/home"
         },
         {
             "id": 9,
             "icono": "fa-solid fa-arrow-right-from-bracket",
-            "nombre": "Cerrar Sesión"
+            "nombre": "Cerrar Sesión",
+            "router": "/login"
         }
     ],
     "card": [
