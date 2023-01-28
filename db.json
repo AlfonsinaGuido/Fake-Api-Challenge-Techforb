@@ -62,23 +62,10 @@
             "numero": 1234,
             "titular": "Luz Deny",
             "vencimiento": "2021-03-01",
-            "crecimiento": ""
-        },
-        {
-            "id": 2,
-            "saldo": 45741,
-            "numero": 0,
-            "titular": "",
-            "vencimiento": "",
-            "crecimiento": "+0,5%"
-        },
-        {
-            "id": 3,
-            "saldo": 32123,
-            "numero": 0,
-            "titular": "",
-            "vencimiento": "",
-            "crecimiento": "-0,5%"
+            "ingreso": 45741,
+            "egreso": 32123,
+            "sube": "+0,5%",
+            "baja": "-0,5%"
         }
     ],
     "transaction": [
