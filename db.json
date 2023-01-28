@@ -2,48 +2,48 @@
     "menu": [
         {
             "id": 1,
-            "icono": "<i class='fa-solid fa-house'></i>",
-            "opcion": "Inicio"
+            "icono": "fa-solid fa-house",
+            "nombre": "Inicio"
         },
         {
             "id": 2,
-            "icono": "<i class='fa-solid fa-wallet'></i>",
-            "opcion": "Tarjetas"
+            "icono": "fa-solid fa-wallet",
+            "nombre": "Tarjetas"
         },
         {
             "id": 3,
-            "icono": "<i class='fa-solid fa-money-bills'></i>",
-            "opcion": "Prestamos"
+            "icono": "fa-solid fa-money-bills",
+            "nombre": "Prestamos"
         },
         {
             "id": 4,
-            "icono": "<i class='fa-solid fa-arrow-right-arrow-left'></i>",
-            "opcion": "Operaciones"
+            "icono": "fa-solid fa-arrow-right-arrow-left",
+            "nombre": "Operaciones"
         },
         {
             "id": 5,
-            "icono": "<i class='fa-solid fa-arrow-right-arrow-left'></i>",
-            "opcion": "Te ofrecemos"
+            "icono": "fa-solid fa-arrow-right-arrow-left",
+            "nombre": "Te ofrecemos"
         },
         {
             "id": 6,
-            "icono": "<i class='fa-solid fa-shield'></i>",
-            "opcion": "Seguros"
+            "icono": "fa-solid fa-shield",
+            "nombre": "Seguros"
         },
         {
             "id": 7,
-            "icono": "<i class='fa-solid fa-shield'></i>",
-            "opcion": "Puntos"
+            "icono": "fa-solid fa-shield",
+            "nombre": "Puntos"
         },
         {
             "id": 8,
-            "icono": "<i class='fa-regular fa-circle-question'></i>",
-            "opcion": "Ayuda"
+            "icono": "fa-regular fa-circle-question",
+            "nombre": "Ayuda"
         },
         {
             "id": 9,
-            "icono": "<i class='fa-regular fa-circle-question'></i>",
-            "opcion": "Cerrar Sesión"
+            "icono": "fa-regular fa-circle-question",
+            "nombre": "Cerrar Sesión"
         }
     ],
     "card": [
@@ -75,7 +75,7 @@
     "transaction": [
         {
             "id": 1,
-            "flecha": "<i class='fa-solid fa-circle-arrow-right red'></i>",
+            "flecha": "fa-solid fa-circle-arrow-right red",
             "usuario": "Samantha W.",
             "monto": 50036,
             "fecha": "2023-01-25",
@@ -83,7 +83,7 @@
         },
         {
             "id": 2,
-            "flecha": "<i class='fa-solid fa-circle-arrow-right green'></i>",
+            "flecha": "fa-solid fa-circle-arrow-right green",
             "usuario": "Karen Hope",
             "monto": 50036,
             "fecha": "2023-01-25",
@@ -91,7 +91,7 @@
         },
         {
             "id": 3,
-            "flecha": "<i class='fa-solid fa-circle-arrow-right red'></i>",
+            "flecha": "fa-solid fa-circle-arrow-right red",
             "usuario": "Tony Soap",
             "monto": 50036,
             "fecha": "2023-01-25",
@@ -99,7 +99,7 @@
         },
         {
             "id": 4,
-            "flecha": "<i class='fa-solid fa-circle-arrow-right green'></i>",
+            "flecha": "fa-solid fa-circle-arrow-right green",
             "usuario": "Johnny A.",
             "monto": 50036,
             "fecha": "2023-01-25",
@@ -107,7 +107,7 @@
         },
         {
             "id": 5,
-            "flecha": "<i class='fa-solid fa-circle-arrow-right red'></i>",
+            "flecha": "fa-solid fa-circle-arrow-right red",
             "usuario": "Nadila Adja",
             "monto": 50036,
             "fecha": "2023-01-25",
@@ -117,7 +117,7 @@
     "detail": [
         {
             "id": 1,
-            "check": "<i class='fa-solid fa-square-check'></i>",
+            "check": "fa-solid fa-square-check",
             "monto": 800000,
             "cuotas": "Cuota 10 - 24",
             "fecha": "2022-03-25",
