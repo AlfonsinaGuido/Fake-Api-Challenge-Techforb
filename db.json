@@ -22,7 +22,7 @@
         },
         {
             "id": 5,
-            "icono": "fa-solid fa-arrow-right-arrow-left",
+            "icono": "fa-solid fa-file",
             "nombre": "Te ofrecemos"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "id": 7,
-            "icono": "fa-solid fa-shield",
+            "icono": "fa-solid fa-gift",
             "nombre": "Puntos"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "id": 9,
-            "icono": "fa-regular fa-circle-question",
+            "icono": "fa-solid fa-arrow-right-from-bracket",
             "nombre": "Cerrar Sesión"
         }
     ],
