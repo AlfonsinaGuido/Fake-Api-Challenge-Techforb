@@ -64,8 +64,8 @@
             "vencimiento": "2021-03-01",
             "ingreso": 45741,
             "egreso": 32123,
-            "sube": 5,
-            "baja": 5
+            "sube": 0.005,
+            "baja": 0.005
         }
     ],
     "transaction": [
