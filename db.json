@@ -75,7 +75,8 @@
             "usuario": "Samantha W.",
             "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25 04:34:45 AM",
+            "fecha": "2023-01-25",
+            "hora": "04:34:45 AM",
             "estado": "Completado"
         },
         {
@@ -84,7 +85,8 @@
             "usuario": "Karen Hope",
             "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25 04:34:45 AM",
+            "fecha": "2023-01-25",
+            "hora": "04:34:45 AM",
             "estado": "Cancelado"
         },
         {
@@ -93,7 +95,8 @@
             "usuario": "Tony Soap",
             "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25 04:34:45 AM",
+            "fecha": "2023-01-25",
+            "hora": "04:34:45 AM",
             "estado": "Pendiente"
         },
         {
@@ -102,7 +105,8 @@
             "usuario": "Johnny A.",
             "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25 04:34:45 AM",
+            "fecha": "2023-01-25",
+            "hora": "04:34:45 AM",
             "estado": "Completado"
         },
         {
@@ -111,7 +115,8 @@
             "usuario": "Nadila Adja",
             "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25 04:34:45 AM",
+            "fecha": "2023-01-25",
+            "hora": "04:34:45 AM",
             "estado": "Completado"
         }
     ],
