@@ -73,40 +73,45 @@
             "id": 1,
             "flecha": "fa-solid fa-circle-arrow-right red",
             "usuario": "Samantha W.",
+            "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25",
+            "fecha": "2023-01-25 04:34:45 AM",
             "estado": "Completado"
         },
         {
             "id": 2,
             "flecha": "fa-solid fa-circle-arrow-right green",
             "usuario": "Karen Hope",
+            "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25",
+            "fecha": "2023-01-25 04:34:45 AM",
             "estado": "Cancelado"
         },
         {
             "id": 3,
             "flecha": "fa-solid fa-circle-arrow-right red",
             "usuario": "Tony Soap",
+            "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25",
+            "fecha": "2023-01-25 04:34:45 AM",
             "estado": "Pendiente"
         },
         {
             "id": 4,
             "flecha": "fa-solid fa-circle-arrow-right green",
             "usuario": "Johnny A.",
+            "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25",
+            "fecha": "2023-01-25 04:34:45 AM",
             "estado": "Completado"
         },
         {
             "id": 5,
             "flecha": "fa-solid fa-circle-arrow-right red",
             "usuario": "Nadila Adja",
+            "tipo": "transferencia",
             "monto": 50036,
-            "fecha": "2023-01-25",
+            "fecha": "2023-01-25 04:34:45 AM",
             "estado": "Completado"
         }
     ],
