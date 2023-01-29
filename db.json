@@ -136,7 +136,7 @@
             "id": 2,
             "check": "",
             "monto": 500000,
-            "sub-monto": "Sin interés",
+            "submonto": "Sin interés",
             "cuotas": "Cuota 24 - 24",
             "fecha": "2021-03-25",
             "mensual": 30000,
